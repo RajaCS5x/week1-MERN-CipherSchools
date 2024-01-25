@@ -1,0 +1,9 @@
+All About GIT Class-5
+
+git branch (to check how many branch)
+
+git merge dev1 (merge dev1 branch to Master/Main branch)
+
+git branch -d BRANCH_NAME (delete branch but just after commiting)
+
+we can not delete Master or Main branch
