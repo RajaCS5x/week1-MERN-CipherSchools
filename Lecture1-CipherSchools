@@ -1,2 +1,9 @@
-Git Github Introduction Class 0
-Raja Jadon
+Git Github Introduction 
+
+Introduction To GIT Class 1
+
+#COMMANDS
+git --version //to check version of git in system
+
+Initialization : git init //start tracking for particular files/folder
+Modification/Adding : git add file_Name
