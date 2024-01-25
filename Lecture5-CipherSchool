@@ -1,0 +1,16 @@
+GITHUB Class-6
+
+Colaboration Purpose during Projects
+
+"CREATE NEW REPOSITORY BY COMMAND "
+
+echo "# Testing_GITHUB" >> README.md
+git init
+git add README.md
+git commit -m "MESSAGE"
+git branch -M main (Reaname branch to main)
+git rrmote add origin https://github.com/RajaCS5x/Repositary_Name.git
+git push -u origin main  
+
+
+ALL READY REPOSITARY 
