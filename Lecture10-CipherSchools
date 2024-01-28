@@ -1,0 +1,46 @@
+ CSS part 2 - Class 11
+
+ Properties and Targeting using CSS :->
+
+ID should be unique for each element
+targeting ID we use #ID_Name
+
+CSS doesn't give error its just work is to implement id IDs are same it change those all things so write Unique IDs
+
+#header
+{
+  background-color: red;
+}
+#para1
+{
+  font-weight: bolder;
+}
+
+Classes are targeted by .Class_Name
+
+.para
+{
+  letter-spacing: 1px;
+  text-decoration: underline;
+  color: red;
+}
+
+Targeting by Element Name
+
+p
+{
+  font-family:serif;
+  color: blue;
+
+}
+
+Specificity (Priority : ID>100 Class>10 Tag>1)
+If a element has both ID and class then it use Specificty for showing styles
+
+#Header{color:brown}
+.Header{colro:blue}
+Header{color:yellow}
+
+So According to Specificity #Header Styles will be shown/Implemented
+
+If some Style given to parent then it will transfered to it's children also As CSS has D.O.M(Document object model) Model [representation of html document tags in form of parent child relationships with structure similar to TREE Data structure]
